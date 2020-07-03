@@ -1,2 +1,4 @@
-# php-codes
-Using this repository you can find mulitple php functions to perform a specific tasks.  
+PHP Folder Tree
+===
+
+Using this PHP code you can find the sub folders tree easily from the folder where you add this script.
